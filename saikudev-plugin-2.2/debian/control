@@ -1,0 +1,15 @@
+Source: saikudev-plugin
+Section: contrib/misc
+Priority: extra
+Maintainer: Tom Barber <tom@analytical-labs.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+Homepage: http://analytical-labs.com
+#Vcs-Git: git://git.debian.org/collab-maint/saikudev-plugin.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/saikudev-plugin.git;a=summary
+
+Package: saikudev-plugin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Saiku Development Pentaho Plugin
+ The Saiku 2.2 development version plugin for the Pentaho BI Server, should be compatible with version 3.6 onwards.

@@ -1,0 +1,5 @@
+saikudev-plugin (2.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Tom Barber <bugg@unknown>  Tue, 29 Nov 2011 23:46:02 +0000
